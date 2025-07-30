@@ -10,6 +10,6 @@ uv sync
 
 3. python Notas.py
 
-# Cada archivo de xlsx deberia tener una pestana. No se puede un archivo de xlsx con varias pestanas adentro
+Cada archivo de xlsx deberia tener una pestaña. No se puede un archivo de xlsx con varias pestañas adentro
 
 4. Abrir el archivo .html en cualquier navegador.
